@@ -1,6 +1,6 @@
 # Qt-android-openSSL-shared-libs
 
-Building OpenSSL for Qt on Android is poorly documented and a real pain in the ass since there is no definitive list of what versions of everything you need. This Repo hopes to relive some of that pain.
+Building OpenSSL for Qt on Android is poorly documented and a real pain in the ass since there is no definitive list of what versions of everything you need. This Repo hopes to relieve some of that pain.
 
 Here you will find prebuild OpenSSL shared libraries that have been tested with Qt on actual android devices that you can distribute with your android apps.
 
